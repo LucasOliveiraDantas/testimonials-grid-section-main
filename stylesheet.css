@@ -18,7 +18,7 @@
 body {
   background-color: var(--Light-grayish-blue);
 }
-@media screen and (min-width: 360px) {
+@media screen and (min-width: 375px) {
   .container {
     display: grid;
     row-gap: 2rem;
